@@ -8,9 +8,9 @@ import json,sys,time
 #注册后一定要再点代表xxx授予管理员同意,否则outlook api无法调用
 
 
-'ba8d9105-aee8-4c4b-916c-3ecda8bdf8c0'
 
-'uK-onypa1pYF--3Sd_Z4re6bI~2500GY.7'
+
+
 
 path=sys.path[0]+r'/1.txt'
 num1 = 0
